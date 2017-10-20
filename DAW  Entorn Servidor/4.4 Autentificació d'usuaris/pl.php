@@ -1,7 +1,7 @@
 <?php
     //VARIABLES ENTRADES PER L'USUARI
     $userName = $_REQUEST["nom_usuari"];
-    $userPass = $_REQUEST["passwrd"];   
+    $userPass = $_REQUEST["psw"];   
     
     //ARRAY D'USUARIS
     $usersAndPasswords = array(
